@@ -1,1 +1,0 @@
-# Groovy for Java Eyes

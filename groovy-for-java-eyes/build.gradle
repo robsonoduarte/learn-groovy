@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-    implementation libs.groovy.all
+    implementation 'org.apache.groovy:groovy-all:5.0.5'
 }
 
 java {

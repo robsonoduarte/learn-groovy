@@ -1,3 +1,5 @@
+package bravox.learn.groovy
+
 def foo(str){
     // if ( str != null ) {str.reverse()}
     str?.reverse()

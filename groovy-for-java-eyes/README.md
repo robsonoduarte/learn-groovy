@@ -5,3 +5,4 @@
 * [GDK](https://github.com/robsonoduarte/learn-groovy/blob/21d388cd043bb66a4c95e7ba7d46059766dcc9d5/groovy-for-java-eyes/src/main/groovy/bravox/learn/groovy/quicklookgdk.groovy#L3-L4)
 * [Java (without GDK)](https://github.com/robsonoduarte/learn-groovy/blob/21d388cd043bb66a4c95e7ba7d46059766dcc9d5/groovy-for-java-eyes/src/main/groovy/bravox/learn/groovy/QuickLookGDK.groovy#L6-L9)
 * [Safe Navigation Operator](https://github.com/robsonoduarte/learn-groovy/blob/8efd657736d2bbf6811af802e728526880d5eb79/groovy-for-java-eyes/src/main/groovy/bravox/learn/groovy/safeNavifationOperator.groovy#L5)
+* [Exception Handler](https://github.com/robsonoduarte/learn-groovy/blob/b77a27a2cd503c40076d96302b38d529ca33ca12/groovy-for-java-eyes/src/main/groovy/bravox/learn/groovy/exceptionHandler.groovy#L3-L9)
